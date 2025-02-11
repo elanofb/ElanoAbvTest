@@ -6,10 +6,13 @@ using Ambev.DeveloperEvaluation.Common.Validation;
 using Ambev.DeveloperEvaluation.IoC;
 using Ambev.DeveloperEvaluation.ORM;
 using Ambev.DeveloperEvaluation.WebApi.Middleware;
+using AutoMapper;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 //using Ambev.DeveloperEvaluation.Application.Handlers.Sales;
+using Ambev.DeveloperEvaluation.WebApi.Features.Products.GetProduct;
+using Ambev.DeveloperEvaluation.WebApi.Features.Sales.GetSale;
 
 namespace Ambev.DeveloperEvaluation.WebApi;
 
@@ -44,6 +47,9 @@ public class Program
 
             builder.RegisterDependencies();
 
+            builder.Services.AddAutoMapper(typeof(GetProductProfile));
+            builder.Services.AddAutoMapper(typeof(GetSaleProfile));
+            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.AddAutoMapper(typeof(Program).Assembly, typeof(ApplicationLayer).Assembly);
 
             builder.Services.AddMediatR(cfg =>
