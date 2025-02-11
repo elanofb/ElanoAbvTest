@@ -358,9 +358,15 @@ C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debu
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Npgsql.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\OneOf.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Rebus.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Rebus.Microsoft.Extensions.Logging.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Rebus.RabbitMq.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Rebus.ServiceProvider.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Serilog.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Serilog.Enrichers.Environment.dll

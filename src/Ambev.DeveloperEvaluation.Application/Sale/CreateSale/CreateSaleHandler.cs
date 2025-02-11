@@ -5,7 +5,10 @@ using Ambev.DeveloperEvaluation.Domain.Repositories;
 using Ambev.DeveloperEvaluation.Domain.Entities;
 using Ambev.DeveloperEvaluation.Common.Security;
 using Ambev.DeveloperEvaluation.ORM.Repositories;
-
+using Ambev.DeveloperEvaluation.Domain.Events;
+using System.Threading;
+using System.Threading.Tasks;
+using Ambev.DeveloperEvaluation.Domain.Services;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
 
@@ -14,11 +17,14 @@ public class CreateSaleHandler : IRequestHandler<CreateSaleCommand, CreateSaleRe
     private readonly ISaleRepository _saleRepository;
     private readonly IMapper _mapper;
     private readonly ISaleItemRepository _saleItemRepository;
-    public CreateSaleHandler(ISaleRepository saleRepository, IMapper mapper, ISaleItemRepository saleItemRepository)
+    private readonly IMessageBusService _messageBusService;
+
+    public CreateSaleHandler(ISaleRepository saleRepository, IMapper mapper, ISaleItemRepository saleItemRepository, IMessageBusService messageBusService)
     {
         _saleRepository = saleRepository;
         _mapper = mapper;
         _saleItemRepository = saleItemRepository;
+        _messageBusService = messageBusService; 
     }
 
     public async Task<CreateSaleResult> Handle(CreateSaleCommand command, CancellationToken cancellationToken)
@@ -36,15 +42,8 @@ public class CreateSaleHandler : IRequestHandler<CreateSaleCommand, CreateSaleRe
         var sale = _mapper.Map<Sale>(command);
         var createdSale = await _saleRepository.CreateAsync(sale, cancellationToken);        
 
-        //#region Sales Item
-
-        //foreach(var saleitem in command.Items){
-        //    saleitem.SaleId = createdSale.Id; // Garantir que SaleId foi preenchido
-        //    var createdSaleItem = await _saleItemRepository.CreateAsync(saleitem, cancellationToken);            
-        //    //var saleitemMap = _mapper.Map<SaleItem>(createdSaleItem);
-        //}
-
-        //#endregion
+        // Publicando evento no Rebus
+        await _messageBusService.PublishEvent(new OrderCreatedEvent(createdSale.SaleNumber, createdSale.Customer, createdSale.TotalAmount));
 
         var result = _mapper.Map<CreateSaleResult>(createdSale);
 

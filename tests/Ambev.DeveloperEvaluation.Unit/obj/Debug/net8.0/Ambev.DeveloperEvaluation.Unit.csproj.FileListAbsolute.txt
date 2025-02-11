@@ -224,3 +224,8 @@ C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\obj\Debu
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.pdb
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.genruntimeconfig.cache
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Unit.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.Microsoft.Extensions.Logging.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.RabbitMq.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.ServiceProvider.dll
