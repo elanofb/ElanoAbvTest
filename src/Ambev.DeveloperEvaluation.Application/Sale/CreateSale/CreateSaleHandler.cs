@@ -18,13 +18,19 @@ public class CreateSaleHandler : IRequestHandler<CreateSaleCommand, CreateSaleRe
     private readonly IMapper _mapper;
     private readonly ISaleItemRepository _saleItemRepository;
     private readonly IMessageBusService _messageBusService;
+    private readonly SaleDiscountService _discountService;
 
-    public CreateSaleHandler(ISaleRepository saleRepository, IMapper mapper, ISaleItemRepository saleItemRepository, IMessageBusService messageBusService)
+    public CreateSaleHandler(ISaleRepository saleRepository, 
+                                IMapper mapper, 
+                                ISaleItemRepository saleItemRepository, 
+                                IMessageBusService messageBusService, 
+                                SaleDiscountService discountService)
     {
         _saleRepository = saleRepository;
         _mapper = mapper;
         _saleItemRepository = saleItemRepository;
         _messageBusService = messageBusService; 
+        _discountService = discountService;
     }
 
     public async Task<CreateSaleResult> Handle(CreateSaleCommand command, CancellationToken cancellationToken)
@@ -40,6 +46,10 @@ public class CreateSaleHandler : IRequestHandler<CreateSaleCommand, CreateSaleRe
             throw new InvalidOperationException($"Sale with ID {command.Id} already exists");
 
         var sale = _mapper.Map<Sale>(command);
+
+        // Aplicar desconto antes de salvar a venda
+        _discountService.ApplyDiscounts(sale.Items);
+
         var createdSale = await _saleRepository.CreateAsync(sale, cancellationToken);        
 
         // Publicando evento no Rebus após salvar a venda.
