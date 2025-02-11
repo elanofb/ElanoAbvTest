@@ -42,7 +42,7 @@ public class CreateSaleHandler : IRequestHandler<CreateSaleCommand, CreateSaleRe
         var sale = _mapper.Map<Sale>(command);
         var createdSale = await _saleRepository.CreateAsync(sale, cancellationToken);        
 
-        // Publicando evento no Rebus
+        // Publicando evento no Rebus após salvar a venda.
         await _messageBusService.PublishEvent(new OrderCreatedEvent(createdSale.SaleNumber, createdSale.Customer, createdSale.TotalAmount));
 
         var result = _mapper.Map<CreateSaleResult>(createdSale);

@@ -16,7 +16,7 @@ namespace Ambev.DeveloperEvaluation.Common.Configuration
             if (string.IsNullOrEmpty(queueName))
                 throw new ArgumentNullException(nameof(queueName));
 
-            // Configuração do Rebus
+            // Configurando o Rebus com RabbitMq
             services.AddRebus(configure => configure
                 .Transport(t => t.UseRabbitMq(rabbitMqConnectionString, queueName))
                 .Logging(l => l.Console()));
