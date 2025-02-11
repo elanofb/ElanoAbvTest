@@ -1,0 +1,125 @@
+**/.classpath
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/.project
+**/.settings
+**/.toolstarget
+**/.vs
+**/.vscode
+**/FileContentIndex
+**/*.*proj.user
+**/*.dbmdl
+**/*.jfm
+**/azds.yaml
+**/bin
+**/charts
+**/docker-compose*
+**/Dockerfile*
+**/node_modules
+**/npm-debug.log
+**/obj
+**/secrets.dev.yaml
+**/values.dev.yaml
+LICENSE
+README.md
+!**/.gitignore
+!.git/HEAD
+!.git/config
+!.git/packed-refs
+!.git/refs/heads/**
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de log
+*.log
+*.tlog
+
+# Pastas e arquivos gerados pela build
+*bin/
+*obj/
+*out/
+
+# Pastas e arquivos do Visual Studio
+*.vs/
+*/Ambev.DeveloperEvaluation
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache
+*.ide*
+.idea/
+.vscode/
+.vscode-test/
+.vscode-test-adapter/
+*.vsix
+*.nupkg
+*.lock.json
+*.snapshot
+*.cache
+
+# Arquivos de dependências e ferramentas
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.app
+*.apk
+*.exe
+*.dll
+*.pdb
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos do Entity Framework Migrations
+Migrations/
+
+# Arquivos de banco de dados local
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+
+# Configurações específicas do usuário
+*.config
+*.settings
+*.launchSettings.json
+
+# Arquivos de Testes
+TestResults/
+.trx
+.coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+coverage-final.json
+lcov-report/
+
+# Arquivos de logs do Serilog ou outros logs gerados no runtime
+logs/
+*.txt
+
+# Arquivos gerados pelo NuGet
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Arquivos específicos do Rider ou JetBrains
+.idea/
+*.sln.iml
+.idea.module
+
+# Arquivos de IDEs e ferramentas
+.vscode/
+.env
+*.bak
