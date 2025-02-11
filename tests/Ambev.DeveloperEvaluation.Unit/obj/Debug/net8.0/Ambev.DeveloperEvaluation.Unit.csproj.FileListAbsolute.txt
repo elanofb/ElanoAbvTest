@@ -229,3 +229,6 @@ C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debu
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.Microsoft.Extensions.Logging.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.RabbitMq.dll
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Rebus.ServiceProvider.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\AutoFixture.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Fare.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Moq.dll

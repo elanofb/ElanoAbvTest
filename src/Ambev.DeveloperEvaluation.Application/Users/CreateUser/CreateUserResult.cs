@@ -14,4 +14,5 @@ public class CreateUserResult
     /// </summary>
     /// <value>A GUID that uniquely identifies the created user in the system.</value>
     public Guid Id { get; set; }
+    public string Email { get; set; }
 }
