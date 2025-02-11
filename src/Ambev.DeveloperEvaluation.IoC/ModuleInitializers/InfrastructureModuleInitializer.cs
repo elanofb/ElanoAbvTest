@@ -20,5 +20,6 @@ public class InfrastructureModuleInitializer : IModuleInitializer
         builder.Services.AddScoped<ISaleRepository, SaleRepository>();
         builder.Services.AddScoped<ISaleItemRepository, SaleItemRepository>();
         builder.Services.AddScoped<IMessageBusService, MessageBusService>();
+        builder.Services.AddScoped<SaleDiscountService>();
     }
 }

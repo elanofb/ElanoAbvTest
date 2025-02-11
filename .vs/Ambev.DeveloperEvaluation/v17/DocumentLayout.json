@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|solutionrelative:src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E1EFB67-8305-423C-9E09-CBC62465FA18}|src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.common\\rebus\\rebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E1EFB67-8305-423C-9E09-CBC62465FA18}|src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj|solutionrelative:src\\ambev.developerevaluation.common\\rebus\\rebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,24 +102,25 @@
       "DocumentGroups": [
         {
           "DockedHeight": 348,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T01:18:09.584Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RebusConfig.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Common\\Rebus\\RebusConfig.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Common\\Rebus\\RebusConfig.cs",
@@ -136,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InfrastructureModuleInitializer.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
@@ -149,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateUserRequestProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateUserRequestProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateUserRequestProfile.cs",
@@ -181,7 +182,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAowDEAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:55:31.276Z"
+              "WhenOpened": "2025-02-11T12:55:31.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -193,7 +195,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAowBsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:55:31.287Z"
+              "WhenOpened": "2025-02-11T12:55:31.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -301,7 +304,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleHandler.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T23:16:54.586Z"
+              "WhenOpened": "2025-02-10T23:16:54.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -325,7 +329,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAUwCMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.428Z"
+              "WhenOpened": "2025-02-11T01:09:08.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -337,7 +342,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\ProductsController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAowDUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.458Z"
+              "WhenOpened": "2025-02-11T01:09:08.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -349,7 +355,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.471Z"
+              "WhenOpened": "2025-02-11T01:09:08.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
