@@ -6,10 +6,19 @@ using Ambev.DeveloperEvaluation.Common.Validation;
 using Ambev.DeveloperEvaluation.IoC;
 using Ambev.DeveloperEvaluation.ORM;
 using Ambev.DeveloperEvaluation.WebApi.Middleware;
+using AutoMapper;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
-//using Ambev.DeveloperEvaluation.Application.Handlers.Sales;
+using Ambev.DeveloperEvaluation.WebApi.Features.Products.GetProduct;
+using Ambev.DeveloperEvaluation.WebApi.Features.Sales.GetSale;
+using Rebus.Config;
+using Rebus.ServiceProvider;
+using Rebus.RabbitMq;
+using Microsoft.Extensions.DependencyInjection;
+using Ambev.DeveloperEvaluation.Common.Configuration;
+using Ambev.DeveloperEvaluation.Application.EventHandlers;
+
 
 namespace Ambev.DeveloperEvaluation.WebApi;
 
@@ -22,6 +31,7 @@ public class Program
             Log.Information("Starting web application");
 
             WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+
             builder.AddDefaultLogging();
 
             builder.Services.AddControllers();
@@ -35,7 +45,6 @@ public class Program
                     builder.Configuration.GetConnectionString("DefaultConnection"),
                     b => b.MigrationsAssembly("Ambev.DeveloperEvaluation.ORM")
                 )                
-                //options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             );
 
             builder.Services.AddJwtAuthentication(builder.Configuration);
@@ -44,13 +53,29 @@ public class Program
 
             builder.RegisterDependencies();
 
+            // builder.Services.AddAutoMapper(typeof(GetProductProfile));
+            // builder.Services.AddAutoMapper(typeof(GetSaleProfile));
+            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.AddAutoMapper(typeof(Program).Assembly, typeof(ApplicationLayer).Assembly);
+
+            #region REBUS
+ 
+            // Pegando a conexão do appsettings.json
+            var rabbitMqConnection = builder.Configuration.GetConnectionString("RabbitMqConnection");
+            var queueName = "sales_queue_elano_ambev";
+
+            // Configuração do Rebus usando o Common
+            builder.Services.AddRebusConfiguration(rabbitMqConnection, queueName);            
+
+            // Registrar handlers (consumidores dos eventos)
+            builder.Services.AutoRegisterHandlersFromAssemblyOf<OrderCreatedEventHandler>();
+
+            #endregion
 
             builder.Services.AddMediatR(cfg =>
             {
                 cfg.RegisterServicesFromAssemblies(
                     typeof(ApplicationLayer).Assembly,
-                    //typeof(CreateSaleHandler).Assembly,
                     typeof(Program).Assembly
                 );
             });
@@ -74,7 +99,7 @@ public class Program
             app.UseBasicHealthChecks();
 
             app.MapControllers();
-
+      
             app.Run();
         }
         catch (Exception ex)

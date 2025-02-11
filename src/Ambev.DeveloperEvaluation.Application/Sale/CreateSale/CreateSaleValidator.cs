@@ -1,12 +1,10 @@
 ﻿using Ambev.DeveloperEvaluation.Domain.Enums;
 using Ambev.DeveloperEvaluation.Domain.Validation;
 using FluentValidation;
+using Ambev.DeveloperEvaluation.Domain.Entities;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
 
-/// <summary>
-/// Validator for CreateSaleCommand that defines validation rules for sale creation command.
-/// </summary>
 public class CreateSaleCommandValidator : AbstractValidator<CreateSaleCommand>
 {
     /// <summary>
@@ -14,20 +12,22 @@ public class CreateSaleCommandValidator : AbstractValidator<CreateSaleCommand>
     /// </summary>
     /// <remarks>
     /// Validation rules include:
-    /// - Email: Must be in valid format (using EmailValidator)
-    /// - Salename: Required, must be between 3 and 50 characters
-    /// - Password: Must meet security requirements (using PasswordValidator)
-    /// - Phone: Must match international format (+X XXXXXXXXXX)
-    /// - Status: Cannot be set to Unknown
-    /// - Role: Cannot be set to None
+    /// - SaleNumber: Sale Number is required.
+    /// - TotalAmount: Total Amount must be greater than zero
+    /// - SaleItems: A sale must contain at least one SaleItem
     /// </remarks>
     public CreateSaleCommandValidator()
     {
-        // RuleFor(sale => sale.Email).SetValidator(new EmailValidator());
-        // RuleFor(sale => sale.Salename).NotEmpty().Length(3, 50);
-        // RuleFor(sale => sale.Password).SetValidator(new PasswordValidator());
-        // RuleFor(sale => sale.Phone).Matches(@"^\+?[1-9]\d{1,14}$");
-        // RuleFor(sale => sale.Status).NotEqual(SaleStatus.Unknown);
-        // RuleFor(sale => sale.Role).NotEqual(SaleRole.None);
+        RuleFor(sale => sale.SaleNumber)
+            .NotEmpty()
+            .WithMessage("Sale Number is required.");
+
+        RuleFor(sale => sale.TotalAmount)
+            .GreaterThan(0)
+            .WithMessage("Total Amount must be greater than zero.");
+
+        RuleFor(sale => sale.Items)
+            .NotEmpty()
+            .WithMessage("A sale must contain at least one SaleItem.");
     }
 }

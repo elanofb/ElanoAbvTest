@@ -176,6 +176,22 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Rebus": {
+              "target": "Package",
+              "version": "[8.7.1, )"
+            },
+            "Rebus.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Rebus.RabbitMq": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Rebus.ServiceProvider": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -493,6 +509,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
             "Bogus": {
               "target": "Package",
               "version": "[35.6.1, )"
@@ -504,6 +524,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.11.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "NSubstitute": {
               "target": "Package",

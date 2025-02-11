@@ -154,3 +154,8 @@ C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\ob
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.pdb
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.genruntimeconfig.cache
 C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Functional.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Rebus.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Rebus.Microsoft.Extensions.Logging.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Rebus.RabbitMq.dll
+C:\Elano\Jbs\Tkg2\git\ElanoAbvTest\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Rebus.ServiceProvider.dll

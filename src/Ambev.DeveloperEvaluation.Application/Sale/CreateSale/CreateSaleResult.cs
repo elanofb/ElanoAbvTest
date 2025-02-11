@@ -1,4 +1,6 @@
-﻿namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
+﻿using Ambev.DeveloperEvaluation.Domain.Entities;
+
+namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
 
 /// <summary>
 /// Represents the response returned after successfully creating a new sale.
@@ -14,4 +16,5 @@ public class CreateSaleResult
     /// </summary>
     /// <value>A GUID that uniquely identifies the created sale in the system.</value>
     public int Id { get; set; }
+    public List<SaleItem> Items { get; set; } = new();
 }

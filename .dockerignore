@@ -1,3 +1,6 @@
+/src/**/obj/
+*.cache
+*.editorconfig
 **/.classpath
 **/.dockerignore
 **/.env
