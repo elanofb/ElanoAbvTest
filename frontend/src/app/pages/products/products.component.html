@@ -1,0 +1,28 @@
+<p>products works!</p>
+<div class="container">
+    <h2>Products</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Descrição</th>
+          <th>Preço</th>
+          <th>Disponível</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>{{ product.id }}</td>
+          <td>{{ product.name }}</td>
+          <td>{{ product.description }}</td>
+          <td>{{ product.unitPrice | currency }}</td>
+          <td>
+            <span *ngIf="product.isAvailable" class="text-success">Sim</span>
+            <span *ngIf="!product.isAvailable" class="text-danger">Não</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
