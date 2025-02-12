@@ -48,6 +48,13 @@ services:
        MONGO_INITDB_ROOT_PASSWORD: ev@luAt10n
     ports:
        - "6379"
+  
+  frontend:
+    build: ./frontend
+    ports:
+      - "4200:4200"
+    depends_on:
+      - backend
 
 volumes:
   postgres_data:       

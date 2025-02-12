@@ -27,3 +27,11 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "Ambev.DeveloperEvaluation.WebApi.dll"]
+
+FROM node:18
+WORKDIR /app
+COPY package*.json ./
+RUN npm install
+COPY . .
+EXPOSE 4200
+CMD ["npm", "start"]

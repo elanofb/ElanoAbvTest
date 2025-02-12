@@ -55,6 +55,22 @@ public class SalesController : BaseController
         });
     }
 
+    [HttpGet]
+    [ProducesResponseType(typeof(ApiResponseWithData<GetSaleResponse>), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+    [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status404NotFound)]
+    public async Task<IActionResult> GetAllSales(CancellationToken cancellationToken)
+    {   
+        var response = await _mediator.Send(new GetSaleRequest(), cancellationToken);
+
+        return Ok(new ApiResponseWithData<List<GetSaleResponse>>
+        {
+            Success = true,
+            Message = "Sales retrieved successfully",
+            Data = _mapper.Map<List<GetSaleResponse>>(response)   
+        });
+    }
+
     [HttpGet("{id}")]
     [ProducesResponseType(typeof(ApiResponseWithData<GetSaleResponse>), StatusCodes.Status200OK)]
     [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]

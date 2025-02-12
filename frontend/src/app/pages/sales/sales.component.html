@@ -1,0 +1,22 @@
+<div class="container">
+    <h2>Sales</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Cliente</th>
+          <th>Data</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let sale of sales">
+          <td>{{ sale.id }}</td>
+          <td>{{ sale.customerName }}</td>
+          <td>{{ sale.date | date }}</td>
+          <td>{{ sale.total | currency }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
