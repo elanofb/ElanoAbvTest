@@ -566,10 +566,7 @@
           "Serilog.Sinks.Console": "6.0.0"
         },
         "runtime": {
-          "Ambev.DeveloperEvaluation.Common.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ambev.DeveloperEvaluation.Common.dll": {}
         }
       }
     }

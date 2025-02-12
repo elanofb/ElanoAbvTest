@@ -617,10 +617,7 @@
           "OneOf": "3.0.271"
         },
         "runtime": {
-          "Ambev.DeveloperEvaluation.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ambev.DeveloperEvaluation.Application.dll": {}
         }
       },
       "Ambev.DeveloperEvaluation.Common/1.0.0": {
@@ -644,10 +641,7 @@
           "Serilog.Sinks.Console": "6.0.0"
         },
         "runtime": {
-          "Ambev.DeveloperEvaluation.Common.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ambev.DeveloperEvaluation.Common.dll": {}
         }
       },
       "Ambev.DeveloperEvaluation.Domain/1.0.0": {
@@ -656,10 +650,7 @@
           "FluentValidation": "11.10.0"
         },
         "runtime": {
-          "Ambev.DeveloperEvaluation.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ambev.DeveloperEvaluation.Domain.dll": {}
         }
       },
       "Ambev.DeveloperEvaluation.ORM/1.0.0": {
@@ -670,10 +661,7 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.8"
         },
         "runtime": {
-          "Ambev.DeveloperEvaluation.ORM.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ambev.DeveloperEvaluation.ORM.dll": {}
         }
       }
     }

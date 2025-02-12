@@ -5,7 +5,7 @@ import axios from 'axios';
   providedIn: 'root'
 })
 export class ApiService {
-  private BASE_URL = 'http://localhost:5119/api'; // Atualize com o URL correto
+  private BASE_URL = 'http://localhost:7181/api'; // Atualize com o URL correto
 
   async getUsers() {
     return axios.get(`${this.BASE_URL}/users`);

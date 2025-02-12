@@ -7,6 +7,58 @@
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelistresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelistresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsalelisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\getsale\\getsaleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\getsale\\getsaleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.domain\\repositories\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\repositories\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.orm\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\createsale\\createsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\createsale\\createsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\products\\getproduct\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\products\\getproduct\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\features\\sales\\getsale\\getsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\getsale\\getsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0DDDE39-2D65-4AF5-90D4-F35D87A79009}|src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj|solutionrelative:src\\ambev.developerevaluation.ioc\\moduleinitializers\\infrastructuremoduleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E1EFB67-8305-423C-9E09-CBC62465FA18}|src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.common\\rebus\\rebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E1EFB67-8305-423C-9E09-CBC62465FA18}|src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj|solutionrelative:src\\ambev.developerevaluation.common\\rebus\\rebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\sale\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sale\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.orm\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -75,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.application\\products\\getproduct\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\products\\getproduct\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\elano\\jbs\\tkg2\\git\\elanoabvtest\\src\\ambev.developerevaluation.webapi\\features\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -112,7 +148,7 @@
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAMAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAnwG8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T01:18:09.584Z",
               "IsPinned": true,
@@ -120,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "RebusConfig.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Common\\Rebus\\RebusConfig.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Common\\Rebus\\RebusConfig.cs",
@@ -132,12 +168,131 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetSaleHandler.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleHandler.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleHandler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:05:21.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetSaleCommand.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleCommand.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:15:13.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "GetSaleListResult.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListResult.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListResult.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListResult.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:19:56.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetSaleResult.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleResult.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleResult.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleResult.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:16:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSaleListCommand.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListCommand.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:15:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSaleListHandler.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListHandler.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\GetSale\\GetSaleListHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:12:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Domain\\Repositories\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Repositories\\ISaleRepository.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Domain\\Repositories\\ISaleRepository.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Repositories\\ISaleRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:09:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSaleCommand.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleCommand.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:05:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetSaleRequest.cs",
+              "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleRequest.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleRequest.cs",
+              "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleRequest.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:02:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "InfrastructureModuleInitializer.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.IoC\\ModuleInitializers\\InfrastructureModuleInitializer.cs",
@@ -149,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "CreateUserRequestProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateUserRequestProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateUserRequestProfile.cs",
@@ -161,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\appsettings.json",
@@ -173,31 +328,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAowDEAAABQAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv08AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:55:31.276Z"
+              "WhenOpened": "2025-02-11T12:55:31.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SaleRepository.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "ToolTip": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAowBsAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:55:31.287Z"
+              "WhenOpened": "2025-02-11T12:55:31.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "AuthenticateUserProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Auth\\AuthenticateUserFeature\\AuthenticateUserProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Auth\\AuthenticateUserFeature\\AuthenticateUserProfile.cs",
@@ -209,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "GetSaleProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleProfile.cs",
@@ -221,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
@@ -233,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "GetUserProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\GetUser\\GetUserProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\GetUser\\GetUserProfile.cs",
@@ -245,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "GetProductResult.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Products\\GetProduct\\GetProductResult.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Products\\GetProduct\\GetProductResult.cs",
@@ -257,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "GetProductCommand.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Products\\GetProduct\\GetProductCommand.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Products\\GetProduct\\GetProductCommand.cs",
@@ -265,11 +422,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Products\\GetProduct\\GetProductCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:38:09.599Z"
+              "WhenOpened": "2025-02-11T01:38:09.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\UsersController.cs",
@@ -281,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "GetProductResponse.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\GetProduct\\GetProductResponse.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\GetProduct\\GetProductResponse.cs",
@@ -293,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CreateSaleHandler.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleHandler.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleHandler.cs",
@@ -301,11 +459,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sale\\CreateSale\\CreateSaleHandler.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T23:16:54.586Z"
+              "WhenOpened": "2025-02-10T23:16:54.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "CreateProductProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\CreateProduct\\CreateProductProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\CreateProduct\\CreateProductProfile.cs",
@@ -317,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Application\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -325,11 +484,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Products\\CreateProduct\\CreateProductHandler.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAUwCMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.428Z"
+              "WhenOpened": "2025-02-11T01:09:08.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\ProductsController.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\ProductsController.cs",
@@ -337,11 +497,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\ProductsController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAowDUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.458Z"
+              "WhenOpened": "2025-02-11T01:09:08.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\ProductRepository.cs",
@@ -349,11 +510,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:09:08.471Z"
+              "WhenOpened": "2025-02-11T01:09:08.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "GetProductProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\GetProduct\\GetProductProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Products\\GetProduct\\GetProductProfile.cs",
@@ -365,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Product.cs",
@@ -377,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "CreateProductRequestProfile.cs",
               "DocumentMoniker": "C:\\Elano\\Jbs\\Tkg2\\git\\ElanoAbvTest\\src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateProductRequestProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Mappings\\CreateProductRequestProfile.cs",
